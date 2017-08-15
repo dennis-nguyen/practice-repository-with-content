@@ -1,2 +1,5 @@
-# practice-repository-with-content
-I am practicing making a git repository
+Practice-Repository
+===============
+
+### Summary
+**Practice-Repository** was created to practice using Git and Github.
